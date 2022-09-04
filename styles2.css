@@ -1,0 +1,199 @@
+.nav1{display: flex;}
+.navigation1{
+    align-content: flex-end;
+    display: inline-block;
+}
+.mainmenu{
+    display:inline-block;
+    margin-top: 66px;
+}
+.navbtn{
+    color: #3A3632;
+    text-decoration: none;
+    size: 22px;
+    font-family: helvetica;
+    margin-top: 66px;
+    margin-right: 100px;
+}
+#demobutton{
+    background-color: #1D4776;
+    color: white;
+    border-color: #1D4776;;width: 160px;height: 40px;
+    box-shadow:none;text-shadow: none;
+}
+.logo{
+    margin-left: 120px;
+    margin-top: 30.85px;
+    margin-right: 130px;
+}
+.imgnav{
+    background-color: #1D4776;
+    display: flex;
+  flex-wrap: nowrap;
+    height:105px;
+    padding-left: 0px;
+    margin-left: 0px;left: 0px;
+}
+.navimg{height: 50px;}
+.oracle{color: WHITE;width:120px;height:23px;margin-left:190px;margin-top:43px;}
+.n1{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n2{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n3{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n4{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n5{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n6{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n7{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n8{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n9{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n10{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.cloud .row1{display: flex;align-items: center;}
+#clouds{background-image: url("imgs/Path 3213.png");color: white;background-size: 40px;
+    background-repeat:no-repeat;}
+#cloudp1{
+    color: #4b4b4b;
+    position: relative;
+    text-align: left;
+    font-size: 52px;width: 710px;
+    height: 178px;
+    font-family: Helvetica;
+    margin-left: 140px;
+    margin-top: 160px;
+}
+#cloudp2{
+    color: #7A7A7A;
+    font-size: 30px; font-family: Helvetica;
+    width: 835px;height: 168px;
+    margin-left: 140px;margin-top:37px;
+}
+.watchdemo{
+    color: white;
+    background-color: #D4262C;
+    border: 0px;
+    width:260px;height: 60px;
+    font-size:22px;font-family: helvetica;
+}
+#schedule{
+    color:#033864;
+    border-color:#033864;font-size:22px;font-family: helvetica;
+    margin-left: 60px;width:297px;height: 60px;
+}
+#cloudbtns{
+    margin-top: 59px;
+    margin-left: 140px;
+}
+#cloudimgcontainer{
+    align-content: right;margin-right:80px;
+    position: relative;
+    float: right;
+    background: transparent url('img/12437-oracle-cloud-computing-removebg-preview.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#cloudimg{margin-right:80px;}
+.container{margin-top:40px;margin-left:140px;align-items: center;}
+.watchdemo2{
+    color: #fff;
+    background-color: #25985C;
+    border: 0px;width: 155px;
+    height: 50px;
+}
+.services{margin-left:100px;margin-top:40px;}
+.service{
+    margin:40px;align-items: center;align-content: center;
+}
+.row{display: flex;align-items: center;}
+.navbtn2{
+    color: #3A3632;
+    text-decoration: none;list-style: none;
+    size: 22px;
+    font-family: helvetica;padding-bottom: 30px;}
+.social{margin-top:44px;
+width: 250px;height: 32px;}
+.service_{
+    text-align: center;font: normal normal normal 22px Helvetica;
+    color: #363636;
+}
+#access{background-color: #1D4776;
+    margin-top:260px;}
+    #contact{background:#00A1E0 url(imgs1/design2.png) right bottom no-repeat}
+    #contactinfo{color: white;font-family: helvetica;font-size:32px;
+    margin-left:140px;margin-right:80px;}
+    .contactbtn{
+        vertical-align:middle;margin-right: 140px;
+        color: #1D4776;font-size:20px;
+        width: 260px;height: 60px;
+        background-color: white;
+        border: 0px;
+    }
+    .pc1{
+        width:687px;
+    height:444px;
+    position: relative;right: 50px;
+    }
+    .pc2{
+        width: 587px;
+    height: 344px;
+    position: relative;bottom: 210px;
+    left: 35px;
+    }
+    .attain{
+        border-left:8px solid #E62A38;}
+    .attains{font-size:36px;color:#1D4776;font-family:Helvetica ;
+    margin-left:22px;}
+    .attains2{font-size:32px;font-family: helvetica;color:#5b7391;}
+    .practiseheading{
+        margin-left:140px;
+        color:#1D4776;font-size:46px;text-align: left;font-family:Helvetica;
+    }
+.practises{margin-left:197px;}
+.s{
+    color: white;
+    text-align: center;
+    margin-bottom:50px;
+    font: normal normal normal 25px helvetica;
+    letter-spacing: 0px;
+}
+#service1{background-color:#A1000C ;margin-left:180px;margin-right:130px;
+        border-radius:14px;width:500px;
+        height:320px;}
+#service2{background-color:#086CA2;width:500px;
+    height:320px;margin: 50px;border-radius: 14px;}
+#service3{background-color:#235B79;width:500px;
+    height:320px;margin-left:300px;margin-right:130px;margin-bottom:100px;margin-top:20px;border-radius: 14px;}
+ #service4{background-color:#E62A38;width:500px;
+    height:320px;margin-left: 50px;border-radius: 14px;margin-bottom:100px;margin-top:20px;}
+#service1img{
+    position:relative;margin-left:210px;margin-right: auto;margin-top:49px;margin-bottom:58px;
+}
+#service2img{
+    position:relative;margin-left:210px;margin-right: auto;margin-top:49px;margin-bottom:58px;
+}
+#service3img{
+    position:relative;margin-left:210px;margin-right: auto;margin-top:49px;margin-bottom:58px;
+}
+#service4img{
+    position:relative;margin-left:210px;margin-right: auto;margin-top:49px;margin-bottom:58px;
+}
+.grid-container {
+    display: grid;width: 50%;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    font-size: 30px;font-family:helvetica;
+    text-align: center;
+  }
+  .verticalLine{
+    background-color: #E62A38;
+    width:3px;margin-left:15.5px;
+    height:80px;
+ }
+.circle{
+    border-radius:20px;
+    height:40px;
+    width:40px;
+    background-color: #E62A38;
+}
+.expertise{color: #7D7D7D;font-size:25px;font-family:helvetica;
+padding-left: 10px;}

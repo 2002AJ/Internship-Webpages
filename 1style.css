@@ -1,0 +1,287 @@
+.mainmenu{display:inline-block;
+    margin-top: 66px;
+}
+.logo{margin-left: 120px;margin-right: 130px;}
+.navigation{
+    align-content: flex-end;
+    display: inline-block;
+}
+#demobutton{
+    background-color: #1D4776;
+    color: white;
+    border-color: #1D4776;
+    margin-right:0px;width: 160px;height: 40px;
+    box-shadow:none;text-shadow: none;
+}
+.container .row{
+    display: flex;align-items: center;
+}
+.navimg{height: 50px;}
+.navbtn{
+    color: #3A3632;
+    text-decoration: none;
+    size: 22px;
+    font-family: helvetica;
+    margin-top: 66px;
+    margin-right: 100px;
+}
+.imgnav{
+    background-color: #1D4776;
+    display: flex;
+    flex-wrap: nowrap;height: 105px;
+}
+#devoptxt1{
+    color: #4b4b4b;
+    position: relative;
+    font-size: 52px;
+    font-family: Helvetica;    text-align: left;
+    width:50%;
+    margin-left: 140px;
+    margin-top: 170px;
+}
+#devoptxt2{
+    color: #7A7A7A;
+    position: relative;
+    font-size: 30px;
+    text-align: left;
+    width:50%;
+    margin-top: 37px;
+    margin-left: 140px;
+}
+.devop{
+    background-image: url("imgs/Path\ 3213.png");
+    background-size:240px;
+    background-repeat:no-repeat;
+}
+#devopimgcontainer{
+    align-content: right;
+    position: relative;
+    float: right;
+ 
+}
+#devopimg{
+    align-content: right;
+    position: relative;
+    float: right;
+    width: 592px;
+    height:307px;
+    margin-right: 112px;
+}
+.watchdemo{
+    color: #fff;
+    background-color: #25985C;
+    border: 0px;width: 260px;
+    height: 50px;
+}
+.watchdemo2{
+    color: #fff;
+    background-color: #25985C;
+    border: 0px;width: 155px;
+    height: 50px;
+}
+#schedule{
+    color: #e62a38;width: 297px;
+    height: 50px;background-color:transparent;
+    border-color: #e62a38;
+    margin-left: 60px;
+}
+#devopbtns{
+    margin-top: 59px;
+    margin-left: 140px;
+}
+.service{
+    margin:40px;justify-content: center;
+}
+#contact{background:url(imgs1/design2.png) right bottom no-repeat,url(imgs1/design2a.png) left top no-repeat;
+background-color: #00A1E0 ;}
+#contactinfo{color: white;font-family: helvetica;font-size:32px;
+margin-left:140px;margin-right:80px;margin-top:146px;margin-bottom:128px;}
+.contactbtn{
+    vertical-align:middle;margin-right: 140px;
+    color: #1D4776;font-size:20px;
+    width: 260px;height: 60px;
+    background-color: white;
+    border: 0px;
+}
+#devoppracticeheading{
+    font-size: 46px;font-family: helvetica;
+    color: #1D4776;
+    text-align: left;
+    margin-left: 152px;
+    margin-top: 135.09px;
+}
+#devoppracticeimg{vertical-align: middle;align-content: center;
+    margin-top: 125px;
+    width: 566px;
+    height: 576px;
+    margin-left: 177px;margin-right: 177px;
+    align-items: center;
+}
+#access{background-color: #1D4776;
+margin-top:260px;}
+#service1{background-color:#07A051 ;margin: 50px;
+border-radius: 25px;width: 400px;
+height: 220px;}
+#service1img{
+    position:relative;margin-left: 150px;margin-right: auto;margin-top:39px;margin-bottom:8px;
+    background-color: #07A051;
+}
+#service2{background-color:#086CA2;width: 400px;
+    height: 220px;margin: 50px;border-radius: 25px;}
+#service2img{
+    position:relative;margin-left: 150px;margin-right: auto;margin-top:39px;margin-bottom:8px;
+    background-color: #086CA2;
+}
+#service3{background-color:#235B79 ;width: 400px;
+    height: 220px;border-radius: 25px;margin: 50px;}
+#service3img{
+    position:relative;margin-left: 150px;margin-right: auto;margin-top:39px;margin-bottom:8px;
+    background-color: #235B79;
+}
+#service4{background-color:#034569;width: 400px;
+    height: 220px;border-radius: 25px;margin: 50px;}
+#service4img{
+    position:relative;margin-left: 150px;margin-right: auto;margin-top:39px;margin-bottom:8px;
+    background-color: #034569;
+}
+#service5{background-color:#E62A38;width: 400px;
+    height: 220px;border-radius: 25px;margin: 50px;}
+#service5img{
+    position:relative;margin-left: 150px;margin-right: auto;margin-top:39px;margin-bottom:8px;
+    background-color: #E62A38;
+}
+#service6{background-color:#2CAF6B ;width: 400px;
+    height: 220px;border-radius: 25px;margin: 50px;}
+#service6img{
+    position:relative;margin-left: 150px;margin-right: auto;margin-top:39px;margin-bottom:8px;
+    background-color: #2CAF6B;
+}
+.s{
+    color: white;
+    text-align: center;
+    margin-bottom:50px;
+    font: normal normal normal 25px helvetica;
+    letter-spacing: 0px;
+}
+.services{margin-top:40px;margin-left:140px;}
+.DevOpsOfferings{
+    color: #1D4776;
+    font-family: helvetica;font-size: 46px;
+    margin-left:152px;margin-bottom:50px;margin-top:140px;
+}
+.offeringrow{margin-left:140px;}
+.offeringsub{background-color:#2CAF6B ;width: 334px;height:334px;}
+.offeringsubheading{text-align: center;color: white;padding-top: 40px;
+    padding-bottom: 40px;
+font-size: 28px;font-family: helvetica;font-weight:500;}
+.offering{text-align:left;font-size:18px;font-family: helvetica;
+    color: white;margin-left:18px;margin-right:46px;}
+.diamond{
+    background-color:#F1F1F1;
+    transform: rotate(45deg);
+    border: 0px;
+    width: 100px;height:100px;
+    position: relative;
+top:77px;right:50px;}
+.navbtn2{
+    color: #3A3632;
+    text-decoration: none;list-style: none;
+    size: 22px;
+    font-family: helvetica;
+    margin-bottom:30px;}
+.social{margin-top:44px;
+width: 250px;height: 32px;}
+.service_{
+    text-align: center;font: normal normal normal 22px Helvetica;
+    color: #363636;
+}
+.pc{margin-top:45px;background-image:url(imgs1/design.png);background-position: right top;background-repeat: no-repeat;}
+.pc1{
+    width: 587px;
+height: 344px;
+position: relative;right: 50px;
+}
+.pc2{
+    width: 587px;
+height: 344px;
+position: relative;bottom: 210px;
+left: 35px;
+}
+.attain{
+    border-left:8px solid #E62A38;}
+.attains{font-size:36px;color:#1D4776;font-family:Helvetica ;
+margin-left:22px;}
+.attains2{font-size:32px;font-family: helvetica;color:#5b7391;}
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ .verticalLine{
+    background-color: #E62A38;
+    width:3px;margin-left:15.5px;
+    height:80px;
+ }
+.circle{
+    border-radius:20px;
+    height:40px;
+    width:40px;
+    background-color: #E62A38;
+}
+.grid-container {
+    display: grid;width: 50%;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    font-size: 30px;font-family:helvetica;
+    text-align: center;
+  }
+  .expertise{color: #7D7D7D;font-size:25px;font-family:helvetica;
+padding-left:10px;}
+  .practiseheading{
+    margin-left:140px;
+    color:#1D4776;font-size:46px;text-align: left;font-family:Helvetica;
+}
+.n1{width:50px;height:45px;margin-left:170px;margin-top:27px;}
+.n2{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n3{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n4{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n5{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n6{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n7{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n8{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n9{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.n10{width: 30px;height:25px;margin-left:100px;margin-top:43px;}
+.gc{display: flex;margin-top: 50px;}
+.gcimg{width:120px;height:120px;}
+.ph{font-size:36px;margin-left: 0px;}
+.ml{margin-left:100px;}
+.d{display: flex;}
+.dobg{background:linear-gradient(to right,#f0f7fb 0%,#f0f7fb 75%,#1D4776 75%,#1D4776 100%);}
+.ml1{margin-left:140px;}
+.attaining{text-align: left;font-family:helvetica;letter-spacing: 0px;color: #5A5A5A;opacity: 1;font-size: 42px;}
+.do{margin-top:160px;margin-bottom:115px;margin-left:140px;color:#1D4776;font-size:46px;font-family: helvetica;}
+.dop{margin:0%;width:350px;height: 576px;}
+.list{list-style: none;}
+.mr{margin-right:30px;}
+.mr1{margin-right:290px;}
+.foot{margin-left:50px;margin-top:50px;}
+.foot1{margin-top:80px;margin-left:140px;}
+.mt{margin-top:128px;}
+.su{background-image: url(imgs2/signup.png);background-repeat: no-repeat;left: 0px;height:265px;}
+.subtn{background: none;width: 260px;height: 66px;border: 2px solid #FFFFFF;opacity: 1;color: white;margin-left:230px;margin-right:140px;}
+#sup{color: white;font-size:30px;font-family: helvetica;margin-left:140px;}
+.a1{color: white;font-family: helvetica;font-size:36px;margin-left:140px;font-weight:400;padding-top:170px;}
+.a2{color: white;font-family: helvetica;font-size:28px;margin-left:140px;margin-right:560px;}
+.ab{color:#1D4776;border: none;background-color: white;text-align: center;font-size:20px;margin-left:140px;margin-bottom:170px;width: 259px;height: 56px;margin-top:55px;}
+.off1{width:70px;height:70px;margin-top:15px;margin-left:15px;transform: rotate(-45deg);}
+.pd{padding-bottom:15px;}
+.off2{display: flex;margin-top:140px;}
+.off5{width:40px;height:60px;margin-top:15px;margin-left:25px;transform: rotate(-45deg)}
+.off4{width:60px;height:50px;margin-top:25px;margin-left:20px;transform: rotate(-45deg)}
+.off6{width:60px;height:50px;margin-top:22px;margin-left:18px;transform: rotate(-45deg)}
+.off_{margin-left:20px;padding-bottom:15px;}
+.mb{margin-bottom:45px;}
